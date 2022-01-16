@@ -1,7 +1,6 @@
 ### Hi there, I'm Albin! 👋
 
-![MySQL](/img/mysql-#00f.svg)
-
+![MySQL](./img/mysql-#00f.svg)
 <!--
 **meDracula/meDracula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
