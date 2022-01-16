@@ -2,6 +2,9 @@
 
 I'm currently a student in: [Python Development with a focus on Artificial Intelligence and machine learning](https://teknikhogskolan.se/utbildningar/pythonutvecklare-ai/) at Teknikhögskolan.
 
+⚡ Fun fact: I was original deadset on becoming a game developer but after 3 years of gymnasium in that field.
+I haved a change of heart and now I am working my ass of becoming AI developer.
+
 ### Programming languages
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
