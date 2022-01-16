@@ -27,7 +27,7 @@ I haved a change of heart and now I am working my ass of becoming AI developer.
 
 ## Other stuff
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-[User meFrakenstein](https://www.codewars.com/users/meFrankenstein)
+**User** [meFrakenstein](https://www.codewars.com/users/meFrankenstein)
 
 <!--
 Here are some ideas to get you started:
