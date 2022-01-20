@@ -2,7 +2,7 @@
 
 I'm currently a student in: [Python Development with a focus on Artificial Intelligence and machine learning](https://teknikhogskolan.se/utbildningar/pythonutvecklare-ai/) at Teknikhögskolan.
 
-🌱 I’m currently learning webdesign and with that improving all previous knowledge.
+🌱 I’m currently learning web design and with that expanding all previous knowledge.
 
 ⚡ Fun fact: I was original deadset on becoming a game developer but after 3 years of gymnasium in that field.
 I haved a change of heart and now I am working my ass of becoming AI developer.
