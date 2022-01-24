@@ -7,7 +7,7 @@ I'm currently a student in: [Python Development with a focus on Artificial Intel
 ⚡ Fun fact: I was original deadset on becoming a game developer but after 3 years of gymnasium in that field.
 I had a change of heart and now I am working my ass of becoming AI developer.
 
-📫 How to reach me: ...
+📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Albin Thorsson](www.linkedin.com/in/albin-thorsson-98191122b)
 
 ### Programming languages
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
