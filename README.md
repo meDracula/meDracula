@@ -2,11 +2,11 @@
 
 I'm currently a student in: [Python Development with a focus on Artificial Intelligence and machine learning](https://teknikhogskolan.se/utbildningar/pythonutvecklare-ai/) at Teknikhögskolan.
 
-⚡ I’m currently studying the mathematics and theory of machine learning and with that expanding my understanding of linear algebra and
-converting mathematics to beautiful code.
+⚡ I’m currently studying Machine learning and Deep learning which is expanding my understanding of artificial intelligence and
+giving a new way of solving complex problems.
 
 🌱 Life fact: I was original deadset on becoming a game developer but after 3 years of gymnasium in that field.
-I had a change of heart and now I am working my ass of becoming AI developer.
+I had a change of heart and now I am working my ass off becoming AI developer.
 
 
 ### Programming languages
@@ -32,16 +32,3 @@ I had a change of heart and now I am working my ass of becoming AI developer.
 ## Other stuff
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 **User** [meFrakenstein](https://www.codewars.com/users/meFrankenstein)
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
