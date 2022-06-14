@@ -2,7 +2,7 @@
 
 I'm currently a student in: [Python Development with a focus on Artificial Intelligence and machine learning](https://teknikhogskolan.se/utbildningar/pythonutvecklare-ai/) at Teknikhögskolan.
 
-⚡ I’m currently working at Volvo Build Measure and Learn Technology where I'm working on a agile scrum.
+⚡ I’m currently working at Volvo Build Measure and Learn Technology where I'm working in a agile scrum.
 Mainly just running around from jumping one programming language to another then get introduce to some new framework or tool.
 Madhouse, but insanely fun!
 
