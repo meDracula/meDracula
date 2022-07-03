@@ -2,9 +2,7 @@
 
 I'm currently a student in: [Python Development with a focus on Artificial Intelligence and machine learning](https://teknikhogskolan.se/utbildningar/pythonutvecklare-ai/) at Teknikhögskolan.
 
-⚡ I’m currently working at Volvo Build Measure and Learn Technology where I'm working in a agile scrum team.
-Mainly just running around from jumping one programming language to another then get introduce to some new framework or tool.
-Madhouse, but insanely fun!
+⚡ I’m currently employed over the summer at Volvo Technology working with Build Measure and Learn Technology in system integration and DevOps.
 
 🌱 Life fact: I was original deadset on becoming a game developer but after 3 years of gymnasium in that field.
 I had a change of heart and now I am working my ass off becoming AI developer.
@@ -33,5 +31,5 @@ I had a change of heart and now I am working my ass off becoming AI developer.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Other stuff
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-**User** [meFrakenstein](https://www.codewars.com/users/meFrankenstein)
+![Codewars](https://www.codewars.com/users/meFrankenstein/badges/small)<br>
+[**Link** meFrakenstein](https://www.codewars.com/users/meFrankenstein)
