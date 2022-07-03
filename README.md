@@ -3,6 +3,7 @@
 I'm currently a student in: [Python Development with a focus on Artificial Intelligence and machine learning](https://teknikhogskolan.se/utbildningar/pythonutvecklare-ai/) at Teknikhögskolan.
 
 ⚡ I’m currently employed over the summer at Volvo Technology working with Build Measure and Learn Technology in system integration and DevOps.
+And I'm loving it :smile:
 
 🌱 Life fact: I was original deadset on becoming a game developer but after 3 years of gymnasium in that field.
 I had a change of heart and now I am working my ass off becoming AI developer.
