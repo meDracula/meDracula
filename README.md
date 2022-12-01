@@ -2,7 +2,7 @@
 
 I'm currently a student in: [Python Development with a focus on Artificial Intelligence and machine learning](https://teknikhogskolan.se/utbildningar/pythonutvecklare-ai/) at Teknikhögskolan.
 
-⚡ I’m currently studying applied artificial Intelligence, and yes we are learn how to design skynet.<br>
+⚡ I’m currently studying applied artificial Intelligence, and yes we are learning how to design skynet.<br>
 I'm also part-time working for Plejd in Cloud-Ops ☁️ 😃
 
 🌱 Life fact: I was original deadset on becoming a game developer but after 3 years of gymnasium in that field.
