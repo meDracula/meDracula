@@ -2,7 +2,8 @@
 
 I'm currently a student in: [Python Development with a focus on Artificial Intelligence and machine learning](https://teknikhogskolan.se/utbildningar/pythonutvecklare-ai/) at Teknikhögskolan.
 
-⚡ I’m currently studying effective python programming and with that expanding mysight both to the language but also furthering my knowledge of algorithms and data structures 🤯.
+⚡ I’m currently studying applied artificial Intelligence, and yes we are learn how to design skynet.<br>
+I'm also part-time working for Plejd in Cloud-Ops ☁️ 😃
 
 🌱 Life fact: I was original deadset on becoming a game developer but after 3 years of gymnasium in that field.
 I had a change of heart and now I am working my ass off becoming AI developer.
@@ -16,6 +17,7 @@ I had a change of heart and now I am working my ass off becoming AI developer.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Tools & Frameworks
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -24,6 +26,7 @@ I had a change of heart and now I am working my ass off becoming AI developer.
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### Operatingsystem
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
