@@ -2,12 +2,14 @@
 
 I'm currently a student in: [Python Development with a focus on Artificial Intelligence and machine learning](https://teknikhogskolan.se/utbildningar/pythonutvecklare-ai/) at Teknikhögskolan.
 
-⚡ I’m currently studying applied artificial Intelligence, and yes we are learning how to design skynet.<br>
-I'm also working part-time for Plejd in Cloud-Ops ☁️ 😃
+⚡ I’m currently in the final phase of finishing my education.
 
-🌱 Life fact: I was original deadset on becoming a game developer but after 3 years of gymnasium in that field.
-I had a change of heart and now I am working my ass off becoming AI developer.
+:calendar: I will start the 5th June working for Plejd in CloudOps with a focus in security related projects ☁️ :satellite: 😃
 
+🌱 Life Story: I was original deadset on becoming a game developer but after 3 years of gymnasium in that field.
+I had a change of heart and now I am working my ass off becoming a AI developer.
+But as I gained experience with my education my heart have beaten again and I have really found myself in the hands-on cyber security world :satellite:<br>
+Which is what I will be working on at Plejd 😃
 
 ### Programming languages
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -38,5 +40,6 @@ I had a change of heart and now I am working my ass off becoming AI developer.
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
 ## Other stuff
-![Codewars](https://www.codewars.com/users/meFrankenstein/badges/small)<br>
-[**Link** meFrakenstein](https://www.codewars.com/users/meFrankenstein)
+![Codewars](https://www.codewars.com/users/meFrankenstein/badges/small)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/medracula.png" alt="TryHackMe">
