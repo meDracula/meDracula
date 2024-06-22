@@ -1,6 +1,4 @@
-# Hi there, I'm Albin! 👋
-
-## <picture><img src = "https://github.com/meDracula/meDracula/blob/main/images/about_me.gif?raw=true" width = 50px></picture> About me
+# <picture><img src = "https://github.com/meDracula/meDracula/blob/main/images/about_me.gif?raw=true" width = 50px></picture> Hi there, I'm Albin!
 
 ⚡I’m currently a working CloudOps:ers ☁️ :satellite: with a focus in security related projects
 
