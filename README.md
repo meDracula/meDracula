@@ -1,13 +1,14 @@
 # Hi there, I'm Albin! 👋
 
-⚡ I’m currently working for Plejd in CloudOps with a focus in security related projects ☁️ :satellite:
+## <picture><img src = "https://github.com/meDracula/meDracula/blob/main/images/about_me.gif?raw=true" width = 50px></picture> About me
+
+⚡I’m currently a working CloudOps:ers ☁️ :satellite: with a focus in security related projects
 
 🎓 Graduated [Python Development with a focus on Artificial Intelligence and machine learning](https://teknikhogskolan.se/utbildningar/pythonutvecklare-ai/) at Teknikhögskolan
 
 🌱 Life Story: I was original deadset on becoming a game developer but after 3 years of gymnasium in that field.
-I had a change of heart and now I am working my ass off becoming a AI developer.
-But as I gained experience with my education my heart have beaten again and I have really found myself in the hands-on cyber security world :satellite:<br>
-Which is what I'm doing while working at Plejd 😃
+I had a change of heart and studied and graduated as a AI developer.
+But as I gained experience with my education my heart have beaten again and I have really found myself working in the hands-on cyber security world.<br>
 
 ### Programming languages
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
