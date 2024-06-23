@@ -1,4 +1,4 @@
-<h1 align="center"><picture><img src = "https://github.com/meDracula/meDracula/blob/main/images/about_me.gif?raw=true" width = 50px></picture>   Hi there, I'm Albin!   <picture><img src = "https://github.com/meDracula/meDracula/blob/main/images/about_me.gif?raw=true" width = 50px></picture></h1>
+<h1 align="center"><picture><img src = "https://github.com/meDracula/meDracula/blob/main/images/developer.gif?raw=true" width = 50px></picture>   Hi there, I'm Albin!   <picture><img src = "https://github.com/meDracula/meDracula/blob/main/images/developer.gif?raw=true" width = 50px></picture></h1>
 
 ⚡I’m currently a working CloudOps:ers ☁️ with a focus in security related projects :satellite:
 
